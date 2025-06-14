@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://backend.ashwinhammar5555.workers.dev"
